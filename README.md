@@ -6,4 +6,4 @@ This website generates mazes with Randomized depth-first search, also known as t
   #Maze Generator
   The depth-first search algorithm of maze generation is frequently implemented using backtracking.
   <br>
-  ![image](https://user-images.githubusercontent.com/84656423/142235384-c42f4ad7-c5de-4a62-88f5-4b03a9342e42.png)
+  ![alt text](https://github.com/karishmarajput/Mezeo/blob/main/Screenshot from 2021-11-17 21-28-25.png?raw=true)
