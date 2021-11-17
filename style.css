@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    width: 100%;
+    position:fixed;
+}
+.navbar-div{
+    width: 100%;
+    height: 60px;
+    background-color: #063763;
+    margin: 0;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+.navbar-div-heading{
+    font-size: 30px;
+    height: 60px;
+    margin: 0;
+    line-height: 60px;
+    padding-left: 5px;
+}
+.range-div{
+    display: flex;
+    justify-content: center;
+}
+.canvas-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+.btn-div{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.btn-maze{
+    height: 50px;
+    font-size: 22px;
+    background-color: #063763;
+    color: white;
+    border: 0px solid black;
+    border-radius: 25px;
+    box-shadow: 2px 4px #888888;
+}
+#generateMaze{
+    height: 30px;
+}
